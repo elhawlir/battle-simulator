@@ -1,7 +1,6 @@
 
-# Rashid Elhawli
-# Student ID: 25421220
-# FIT9133 Assignment 1
+# Extended version of the simulator
+# Includes basic game and extension is added
 
 # For this extended version of the basic game
 # I chose to incorporate options 3 and 4
