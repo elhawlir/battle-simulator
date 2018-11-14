@@ -1,7 +1,4 @@
-
-# Rashid Elhawli
-# Student ID: 25421220
-# FIT9133 Assignment 1
+# Basic version of the battle simulator
 
 print("Welcome to the Battle Simulator!")
 
