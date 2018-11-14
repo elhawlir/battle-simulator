@@ -3,8 +3,7 @@
 # Includes basic game and extension is added
 
 # For this extended version of the basic game
-# I chose to incorporate options 3 and 4
-# 3.Medics and 4.Expanded armies
+# Medics and Expanded armies were added!
 
 print("Welcome to the Battle Simulator!")
 
